@@ -53,7 +53,7 @@ Comarch
 
 *Also*: Node.js, Express.js, Gulp,
 
-** AgilePM (2019) and Scrum Master Certified (2020-2023) **
+**AgilePM (2019) and Scrum Master Certified (2020-2023)**
 
 
 ## Projects :bookmark_tabs:
